@@ -3,7 +3,7 @@
 ## Mô Tả Dự Án
 Dự án này bao gồm việc phân tích dữ liệu khám phá (EDA) và trực quan hóa dữ liệu bán hàng để khám phá các thông tin quan trọng. Sau khi thực hiện EDA, xây dựng và đánh giá một mô hình hồi quy tuyến tính để dự đoán doanh số bán hàng trong tương lai.
 
-## Nội Dung Kho
+## Nội Dung 
 - analysis.ipynb: Jupyter Notebook chứa toàn bộ quá trình EDA, trực quan hóa dữ liệu và xây dựng mô hình hồi quy tuyến tính.
 - data.csv: File CSV chứa dữ liệu bán hàng được sử dụng cho phân tích.
 - requirements.txt: Danh sách các thư viện cần thiết để chạy notebook.
